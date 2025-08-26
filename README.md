@@ -16,12 +16,12 @@
 | Leum.B_Kelly | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | Enterprise | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) |  |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
-|  | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
+| I Try Then Rage | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
 | oplang13 | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
 | Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
-|  | [76561199005498017](https://steamcommunity.com/profiles/76561199005498017) |  | No&#32;malice |
+| Kel, Angel Of Belka | [76561199005498017](https://steamcommunity.com/profiles/76561199005498017) |  | No&#32;malice |
 | LOCH33 | [76561198206916607](https://steamcommunity.com/profiles/76561198206916607) |  |  |
 | spockobaka | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
 | Sαηdmαn | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
@@ -36,9 +36,9 @@
 | Kamina's top guy | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
 | THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
 | xEpic tea | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
-|  | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad |
-|  | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
-|  | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  | Very&#32;bad |
+| W | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad |
+| fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
+| Morgan | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  | Very&#32;bad |
 | INoyanæ | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
 | Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | mahdimofid213 | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
@@ -55,10 +55,10 @@
 | YoiYoiDzuhki | [76561198531827523](https://steamcommunity.com/profiles/76561198531827523) |  |  |
 | Unknown_1500 | [76561199809956509](https://steamcommunity.com/profiles/76561199809956509) | awayancedricedward |  |
 | The road to heaven | [76561199232107732](https://steamcommunity.com/profiles/76561199232107732) | skywY |  |
-|  | [76561198453452152](https://steamcommunity.com/profiles/76561198453452152) |  |  |
-|  | [76561199557221173](https://steamcommunity.com/profiles/76561199557221173) |  |  |
-|  | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
-|  | [76561199746223919](https://steamcommunity.com/profiles/76561199746223919) |  |  |
+| k4d | [76561198453452152](https://steamcommunity.com/profiles/76561198453452152) |  |  |
+| Kr0nos7698 | [76561199557221173](https://steamcommunity.com/profiles/76561199557221173) |  |  |
+| Evrito | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
+| Morgana | [76561199746223919](https://steamcommunity.com/profiles/76561199746223919) |  |  |
 | NoobMaster6969 | [76561199498943010](https://steamcommunity.com/profiles/76561199498943010) |  |  |
 | magipote | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
 | 破天荒 | [76561198980099902](https://steamcommunity.com/profiles/76561198980099902) |  |  |
@@ -70,7 +70,7 @@
 | miao | [76561199087688398](https://steamcommunity.com/profiles/76561199087688398) |  |  |
 | lys0127 | [76561198811677068](https://steamcommunity.com/profiles/76561198811677068) |  |  |
 | ALEX | [76561199574604095](https://steamcommunity.com/profiles/76561199574604095) |  |  |
-|  | [76561199482650750](https://steamcommunity.com/profiles/76561199482650750) |  |  |
+| arino | [76561199482650750](https://steamcommunity.com/profiles/76561199482650750) |  |  |
 | xxxxxxa | [76561198860320969](https://steamcommunity.com/profiles/76561198860320969) |  |  |
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | Oliveiraf | [76561198406113787](https://steamcommunity.com/profiles/76561198406113787) | Rodrigo&#32;Oliveira |  |
