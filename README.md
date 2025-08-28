@@ -19,7 +19,7 @@
 | 8전투 비행단 | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | Enterprise | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) |  |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
-| I Try Then Rage | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
+|  | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
 | oplang13 | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
@@ -60,7 +60,7 @@
 | The road to heaven | [76561199232107732](https://steamcommunity.com/profiles/76561199232107732) | skywY |  |
 | k4d | [76561198453452152](https://steamcommunity.com/profiles/76561198453452152) |  |  |
 | Kr0nos7698 | [76561199557221173](https://steamcommunity.com/profiles/76561199557221173) |  |  |
-|  | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
+| Evrito | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
 | Morgana | [76561199746223919](https://steamcommunity.com/profiles/76561199746223919) |  |  |
 | NoobMaster6969 | [76561199498943010](https://steamcommunity.com/profiles/76561199498943010) |  |  |
 | magipote | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
@@ -154,7 +154,7 @@
 | CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
 | conesama | [76561199025138813](https://steamcommunity.com/profiles/76561199025138813) |  |  |
 | Mr.SY | [76561198443659202](https://steamcommunity.com/profiles/76561198443659202) |  |  |
-| 野菜さん二郎 | [76561198869878353](https://steamcommunity.com/profiles/76561198869878353) | な |  |
+| Na | [76561198869878353](https://steamcommunity.com/profiles/76561198869878353) | な |  |
 | ㄇㄉㄈㄎ | [76561198818703363](https://steamcommunity.com/profiles/76561198818703363) | 3D |  |
 | Carpet | [76561198133305602](https://steamcommunity.com/profiles/76561198133305602) |  |  |
 | Tsu | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
