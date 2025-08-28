@@ -7,6 +7,7 @@
 | Assi | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | ivlds | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | i_am_none77 | [76561199868607161](https://steamcommunity.com/profiles/76561199868607161) |  | Very&#32;bad |
+| !mpact | [76561198196230139](https://steamcommunity.com/profiles/76561198196230139) |  |  |
 | Sr.Sergio857 | [76561199169038829](https://steamcommunity.com/profiles/76561199169038829) |  |  |
 | 南北绿豆 | [76561199342871798](https://steamcommunity.com/profiles/76561199342871798) |  |  |
 | Vzntrical | [76561199864552848](https://steamcommunity.com/profiles/76561199864552848) |  |  |
