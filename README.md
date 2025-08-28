@@ -108,7 +108,7 @@
 | Dreamcatcher | [76561199233210122](https://steamcommunity.com/profiles/76561199233210122) |  |  |
 | VF | [76561198026812263](https://steamcommunity.com/profiles/76561198026812263) |  |  |
 | M. Félix | [76561199245898520](https://steamcommunity.com/profiles/76561199245898520) |  |  |
-| RangerNL12 | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
+|  | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
 | Dr.Kepler | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
 | powergerchus | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
 | Gon | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
@@ -230,7 +230,7 @@
 | 𝕊𝕀𝕄☬𝕌ℝ𝔾 | [76561199401367551](https://steamcommunity.com/profiles/76561199401367551) |  |  |
 | Musgus | [76561198859884192](https://steamcommunity.com/profiles/76561198859884192) |  |  |
 | Scorpion King | [76561198038827316](https://steamcommunity.com/profiles/76561198038827316) |  |  |
-|  | [76561199474926894](https://steamcommunity.com/profiles/76561199474926894) | 风卷尘生 |  |
+| 临琛 | [76561199474926894](https://steamcommunity.com/profiles/76561199474926894) | 风卷尘生 |  |
 | อิสระ VZOR | [76561198398157745](https://steamcommunity.com/profiles/76561198398157745) |  |  |
 | doom | [76561199227155475](https://steamcommunity.com/profiles/76561199227155475) |  |  |
 | ナンとピロシキ | [76561198301029341](https://steamcommunity.com/profiles/76561198301029341) | 田中脊髄剣 |  |
