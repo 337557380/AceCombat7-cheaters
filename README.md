@@ -3,6 +3,7 @@
 
 | Name | Steam URL ID | Aliases | Note |
 | ------ | ------ | ------ | ------ |
+| Johnny | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad |
 | akari | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad |
 | Assi | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | ivlds | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
@@ -39,7 +40,6 @@
 | Kamina's top guy | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
 | THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
 | xEpic tea | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
-| Johnny | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad |
 | fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
 | Morgan | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  | Very&#32;bad |
 | INoyanæ | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
@@ -214,7 +214,7 @@
 | kimono | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
 | 蜡笔小蟹 | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
 | Crazystarwar | [76561198426925179](https://steamcommunity.com/profiles/76561198426925179) |  |  |
-|  | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
+| Max Caulfield | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
 | noodle the sneck | [76561199229760980](https://steamcommunity.com/profiles/76561199229760980) |  |  |
 | MagmaDash | [76561199004004915](https://steamcommunity.com/profiles/76561199004004915) |  |  |
 | ControlC | [76561198043036941](https://steamcommunity.com/profiles/76561198043036941) |  |  |
