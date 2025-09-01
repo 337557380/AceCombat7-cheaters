@@ -92,7 +92,7 @@
 | RDX_Neket | [76561199650989330](https://steamcommunity.com/profiles/76561199650989330) |  |  |
 | 阿雾绫 | [76561199317817093](https://steamcommunity.com/profiles/76561199317817093) |  |  |
 | leon07116 | [76561198016904903](https://steamcommunity.com/profiles/76561198016904903) |  |  |
-|  | [76561198398385657](https://steamcommunity.com/profiles/76561198398385657) |  |  |
+| Blue Rose | [76561198398385657](https://steamcommunity.com/profiles/76561198398385657) |  |  |
 | LaPanne Motors | [76561198368764423](https://steamcommunity.com/profiles/76561198368764423) |  |  |
 | 已经无敌了 | [76561198173106266](https://steamcommunity.com/profiles/76561198173106266) |  |  |
 | 刻苦练狙的肯尼迪 | [76561199220489238](https://steamcommunity.com/profiles/76561199220489238) |  |  |
