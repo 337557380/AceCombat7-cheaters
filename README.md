@@ -146,7 +146,7 @@
 | LOBO1975 | [76561198143645427](https://steamcommunity.com/profiles/76561198143645427) |  |  |
 | 1829824256 | [76561199757824462](https://steamcommunity.com/profiles/76561199757824462) |  |  |
 | 未来の社畜 | [76561199564901138](https://steamcommunity.com/profiles/76561199564901138) | やふゆる_Vtuber |  |
-| Yellow 13 | [76561199758677819](https://steamcommunity.com/profiles/76561199758677819) |  |  |
+|  | [76561199758677819](https://steamcommunity.com/profiles/76561199758677819) |  |  |
 | HASAUEI | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
 | KEROSENE | [76561199575141589](https://steamcommunity.com/profiles/76561199575141589) |  |  |
 | ๋ | [76561198869410066](https://steamcommunity.com/profiles/76561198869410066) | Lacia |  |
@@ -247,7 +247,7 @@
 | Storm | [76561198917360011](https://steamcommunity.com/profiles/76561198917360011) |  |  |
 | asennad | [76561199465912684](https://steamcommunity.com/profiles/76561199465912684) |  |  |
 | Stanstillplays | [76561198429941928](https://steamcommunity.com/profiles/76561198429941928) |  |  |
-| ysamtme | [76561198076214633](https://steamcommunity.com/profiles/76561198076214633) |  |  |
+|  | [76561198076214633](https://steamcommunity.com/profiles/76561198076214633) |  |  |
 | 2781923919 | [76561199168111744](https://steamcommunity.com/profiles/76561199168111744) |  |  |
 | Ace_Mantis | [76561198301721995](https://steamcommunity.com/profiles/76561198301721995) |  |  |
 | GuiltySpark | [76561199507205763](https://steamcommunity.com/profiles/76561199507205763) |  |  |
