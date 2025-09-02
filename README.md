@@ -296,8 +296,8 @@
 | 网上比街上热闹 | [76561199028490431](https://steamcommunity.com/profiles/76561199028490431) |  |  |
 | GUOZI ! | [76561198445457868](https://steamcommunity.com/profiles/76561198445457868) |  |  |
 | Hydra9 | [76561198368034387](https://steamcommunity.com/profiles/76561198368034387) |  |  |
-|  | [76561199116012716](https://steamcommunity.com/profiles/76561199116012716) |  |  |
-|  | [76561198176636826](https://steamcommunity.com/profiles/76561198176636826) |  |  |
+| 葫芦娃 | [76561199116012716](https://steamcommunity.com/profiles/76561199116012716) |  |  |
+| spacewolves | [76561198176636826](https://steamcommunity.com/profiles/76561198176636826) |  |  |
 | Bad Influence | [76561199201981441](https://steamcommunity.com/profiles/76561199201981441) |  |  |
 | -ezC_RougeRunner | [76561198080498773](https://steamcommunity.com/profiles/76561198080498773) |  |  |
 | 帝宝 | [76561199214277508](https://steamcommunity.com/profiles/76561199214277508) |  |  |
