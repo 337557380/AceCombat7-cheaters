@@ -36,7 +36,7 @@
 | ArifxD | [76561199789168958](https://steamcommunity.com/profiles/76561199789168958) |  |  |
 | Pixy | [76561199474482517](https://steamcommunity.com/profiles/76561199474482517) | Azrael |  |
 | Zatooo | [76561198426232443](https://steamcommunity.com/profiles/76561198426232443) |  |  |
-| Ocelot399 | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
+|  | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
 | Atlas | [76561198826655112](https://steamcommunity.com/profiles/76561198826655112) |  |  |
 | Kamina's top guy | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
 | THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
@@ -46,9 +46,9 @@
 | INoyanæ | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
 | Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | SALIVAN | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
-| Blaze | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
-| 595615683 | [76561198335186846](https://steamcommunity.com/profiles/76561198335186846) |  |  |
-| 妄 | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
+|  | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
+|  | [76561198335186846](https://steamcommunity.com/profiles/76561198335186846) |  |  |
+|  | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
 | koban3_jp | [76561199073231961](https://steamcommunity.com/profiles/76561199073231961) |  |  |
 | 𝓼𝓸𝓵𝓪 | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
 | sixfiguredebt | [76561199223435151](https://steamcommunity.com/profiles/76561199223435151) |  |  |
@@ -255,7 +255,7 @@
 | La Gordah Muñones | [76561198396903167](https://steamcommunity.com/profiles/76561198396903167) |  |  |
 | alpha | [76561198319585202](https://steamcommunity.com/profiles/76561198319585202) |  |  |
 | Lunaso0 | [76561198046742690](https://steamcommunity.com/profiles/76561198046742690) |  |  |
-| H_NGM_N | [76561199433034628](https://steamcommunity.com/profiles/76561199433034628) |  |  |
+|  | [76561199433034628](https://steamcommunity.com/profiles/76561199433034628) |  |  |
 | Nota | [76561198036859894](https://steamcommunity.com/profiles/76561198036859894) |  |  |
 | PrayerAnswer | [76561199216430196](https://steamcommunity.com/profiles/76561199216430196) |  |  |
 | DagZede | [76561198127073615](https://steamcommunity.com/profiles/76561198127073615) |  |  |
