@@ -169,7 +169,7 @@
 | 76561198299775669 | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
 | caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
 | Malkars | [76561199543154000](https://steamcommunity.com/profiles/76561199543154000) |  |  |
-| rafapt420 | [76561199549314093](https://steamcommunity.com/profiles/76561199549314093) |  |  |
+|  | [76561199549314093](https://steamcommunity.com/profiles/76561199549314093) |  |  |
 | elna82 | [76561198389918662](https://steamcommunity.com/profiles/76561198389918662) |  |  |
 | Recon | [76561198279192884](https://steamcommunity.com/profiles/76561198279192884) | 碧涵 |  |
 | el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
@@ -234,7 +234,7 @@
 | อิสระ VZOR | [76561198398157745](https://steamcommunity.com/profiles/76561198398157745) |  |  |
 | doom | [76561199227155475](https://steamcommunity.com/profiles/76561199227155475) |  |  |
 | ナンとピロシキ | [76561198301029341](https://steamcommunity.com/profiles/76561198301029341) | 田中脊髄剣 |  |
-|  | [76561198817889927](https://steamcommunity.com/profiles/76561198817889927) |  |  |
+| Pyridine | [76561198817889927](https://steamcommunity.com/profiles/76561198817889927) |  |  |
 | Filp Bogle | [76561198328779734](https://steamcommunity.com/profiles/76561198328779734) |  |  |
 | 孫郎竟云何? | [76561198953392478](https://steamcommunity.com/profiles/76561198953392478) |  |  |
 | spartus06 | [76561198304384143](https://steamcommunity.com/profiles/76561198304384143) |  |  |
