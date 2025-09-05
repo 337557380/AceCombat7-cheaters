@@ -8,6 +8,8 @@
 | Moon | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | novilen | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | i_am_none77 | [76561199868607161](https://steamcommunity.com/profiles/76561199868607161) |  | Very&#32;bad |
+| LOCH33 | [76561198206916607](https://steamcommunity.com/profiles/76561198206916607) |  |  |
+| Gotrush | [76561198116341436](https://steamcommunity.com/profiles/76561198116341436) |  |  |
 | Солнце | [76561198898699339](https://steamcommunity.com/profiles/76561198898699339) |  |  |
 | !mpact | [76561198196230139](https://steamcommunity.com/profiles/76561198196230139) |  |  |
 | Sr.Sergio857 | [76561199169038829](https://steamcommunity.com/profiles/76561199169038829) |  |  |
@@ -26,8 +28,6 @@
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
 | oplang13 | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
 | Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
-| Kel, Angel Of Belka | [76561199005498017](https://steamcommunity.com/profiles/76561199005498017) |  | No&#32;malice |
-| LOCH33 | [76561198206916607](https://steamcommunity.com/profiles/76561198206916607) |  |  |
 | spockobaka | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
 | Sαηdmαn | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
 | Agaion | [76561199792856187](https://steamcommunity.com/profiles/76561199792856187) |  |  |
