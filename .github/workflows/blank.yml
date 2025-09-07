@@ -2,7 +2,7 @@ name: cheaters_update
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '*/20 * * * *'
 
 # test
 #   push:
