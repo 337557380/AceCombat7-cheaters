@@ -59,7 +59,7 @@
 | nibba | [76561198929215067](https://steamcommunity.com/profiles/76561198929215067) |  |  |
 | 逍遥小仙翁 | [76561199224123229](https://steamcommunity.com/profiles/76561199224123229) |  |  |
 | Officer Balls | [76561199385458529](https://steamcommunity.com/profiles/76561199385458529) | ladiesman217 |  |
-|  | [76561199241517841](https://steamcommunity.com/profiles/76561199241517841) |  |  |
+| ayanbaraighost141 | [76561199241517841](https://steamcommunity.com/profiles/76561199241517841) |  |  |
 | YoiYoiDzuhki | [76561198531827523](https://steamcommunity.com/profiles/76561198531827523) |  |  |
 | Unknown_1500 | [76561199809956509](https://steamcommunity.com/profiles/76561199809956509) | awayancedricedward |  |
 | The road to heaven | [76561199232107732](https://steamcommunity.com/profiles/76561199232107732) | skywY |  |
@@ -111,11 +111,11 @@
 | ryoichi.sakata | [76561198992622959](https://steamcommunity.com/profiles/76561198992622959) |  |  |
 | Dreamcatcher | [76561199233210122](https://steamcommunity.com/profiles/76561199233210122) |  |  |
 | VF | [76561198026812263](https://steamcommunity.com/profiles/76561198026812263) |  |  |
-|  | [76561199245898520](https://steamcommunity.com/profiles/76561199245898520) |  |  |
-|  | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
-|  | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
-|  | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
-|  | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
+| M. Félix | [76561199245898520](https://steamcommunity.com/profiles/76561199245898520) |  |  |
+| RangerNL12 | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
+| Dr.Kepler | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
+| powergerchus | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
+| Gon | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
 | Camus | [76561199055046757](https://steamcommunity.com/profiles/76561199055046757) |  |  |
 | f1shift | [76561198883657609](https://steamcommunity.com/profiles/76561198883657609) |  |  |
 | Grana[ITA] | [76561198085046695](https://steamcommunity.com/profiles/76561198085046695) |  |  |
