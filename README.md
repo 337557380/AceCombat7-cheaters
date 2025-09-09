@@ -7,9 +7,9 @@
 | Rebely | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
 | Moon | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | novilen | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
-| 无瑕の小天使 | [76561199158658113](https://steamcommunity.com/profiles/76561199158658113) |  | Very&#32;bad |
-| 江泽民 | [76561198329707303](https://steamcommunity.com/profiles/76561198329707303) |  | Very&#32;bad,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults |
-| Prinz Eugen | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) |  |  |
+|  | [76561199158658113](https://steamcommunity.com/profiles/76561199158658113) |  | Very&#32;bad |
+|  | [76561198329707303](https://steamcommunity.com/profiles/76561198329707303) |  | Very&#32;bad,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults |
+|  | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) |  |  |
 | 世界第一 | [76561198303281186](https://steamcommunity.com/profiles/76561198303281186) |  |  |
 | i_am_none77 | [76561199868607161](https://steamcommunity.com/profiles/76561199868607161) |  | Very&#32;bad |
 | SadrakMc | [76561199259668547](https://steamcommunity.com/profiles/76561199259668547) |  |  |
@@ -31,13 +31,13 @@
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
 | oplang13 | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
-|  | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
+| Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
 | spockobaka | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
 | Sαηdmαn | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
 | Agaion | [76561199792856187](https://steamcommunity.com/profiles/76561199792856187) |  |  |
 | Gabe Newell | [76561199531085713](https://steamcommunity.com/profiles/76561199531085713) |  |  |
 | 柴郡柴郡柴 | [76561198810026504](https://steamcommunity.com/profiles/76561198810026504) |  |  |
-|  | [76561199789168958](https://steamcommunity.com/profiles/76561199789168958) |  |  |
+| ArifxD | [76561199789168958](https://steamcommunity.com/profiles/76561199789168958) |  |  |
 | Pixy | [76561199474482517](https://steamcommunity.com/profiles/76561199474482517) | Azrael |  |
 | Zatooo | [76561198426232443](https://steamcommunity.com/profiles/76561198426232443) |  |  |
 | Ocelot399 | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
@@ -52,9 +52,9 @@
 | SALIVAN | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
 | Blaze | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
 | 595615683 | [76561198335186846](https://steamcommunity.com/profiles/76561198335186846) |  |  |
-|  | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
-|  | [76561199073231961](https://steamcommunity.com/profiles/76561199073231961) |  |  |
-|  | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
+| 妄 | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
+| koban3_jp | [76561199073231961](https://steamcommunity.com/profiles/76561199073231961) |  |  |
+| 𝓼𝓸𝓵𝓪 | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
 | sixfiguredebt | [76561199223435151](https://steamcommunity.com/profiles/76561199223435151) |  |  |
 | nibba | [76561198929215067](https://steamcommunity.com/profiles/76561198929215067) |  |  |
 | 逍遥小仙翁 | [76561199224123229](https://steamcommunity.com/profiles/76561199224123229) |  |  |
@@ -71,15 +71,15 @@
 | magipote | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
 | 破天荒 | [76561198980099902](https://steamcommunity.com/profiles/76561198980099902) |  |  |
 | wuyang | [76561198798948279](https://steamcommunity.com/profiles/76561198798948279) | 誌譐好侽人 |  |
-|  | [76561198069163237](https://steamcommunity.com/profiles/76561198069163237) | ChatGPT |  |
-|  | [76561199777977177](https://steamcommunity.com/profiles/76561199777977177) | PointBlank |  |
-|  | [76561198354361132](https://steamcommunity.com/profiles/76561198354361132) |  |  |
-|  | [76561199859940469](https://steamcommunity.com/profiles/76561199859940469) | testpilot.ace7 |  |
+| Profile Name | [76561198069163237](https://steamcommunity.com/profiles/76561198069163237) | ChatGPT |  |
+| ?? | [76561199777977177](https://steamcommunity.com/profiles/76561199777977177) | PointBlank |  |
+| Nico | [76561198354361132](https://steamcommunity.com/profiles/76561198354361132) |  |  |
+| 君がッ MODを外すまで殴るのをやめないッ！ | [76561199859940469](https://steamcommunity.com/profiles/76561199859940469) | testpilot.ace7 |  |
 | miao | [76561199087688398](https://steamcommunity.com/profiles/76561199087688398) |  |  |
-| lys0127 | [76561198811677068](https://steamcommunity.com/profiles/76561198811677068) |  |  |
-| ALEX | [76561199574604095](https://steamcommunity.com/profiles/76561199574604095) |  |  |
-| arino | [76561199482650750](https://steamcommunity.com/profiles/76561199482650750) |  |  |
-| xxxxxxa | [76561198860320969](https://steamcommunity.com/profiles/76561198860320969) |  |  |
+|  | [76561198811677068](https://steamcommunity.com/profiles/76561198811677068) |  |  |
+|  | [76561199574604095](https://steamcommunity.com/profiles/76561199574604095) |  |  |
+|  | [76561199482650750](https://steamcommunity.com/profiles/76561199482650750) |  |  |
+|  | [76561198860320969](https://steamcommunity.com/profiles/76561198860320969) |  |  |
 | Oliveiraf | [76561198406113787](https://steamcommunity.com/profiles/76561198406113787) | Rodrigo&#32;Oliveira |  |
 | 刚买的飞机被打了 | [76561199549196217](https://steamcommunity.com/profiles/76561199549196217) | 1284829307 | Very&#32;bad |
 | papipapi7772000 | [76561199093661538](https://steamcommunity.com/profiles/76561199093661538) |  |  |
