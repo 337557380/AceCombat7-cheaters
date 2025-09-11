@@ -214,10 +214,10 @@
 | minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | The Author | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
-|  | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
-|  | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
-|  | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
-|  | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
+| rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
+| 20S | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
+| kimono | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
+| 蜡笔小蟹 | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
 | Crazystarwar | [76561198426925179](https://steamcommunity.com/profiles/76561198426925179) |  |  |
 | Max Caulfield | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
 | noodle the sneck | [76561199229760980](https://steamcommunity.com/profiles/76561199229760980) |  |  |
@@ -279,9 +279,9 @@
 | Deliver Us | [76561198043433411](https://steamcommunity.com/profiles/76561198043433411) |  |  |
 | JAIGAYRAY | [76561198030697690](https://steamcommunity.com/profiles/76561198030697690) |  |  |
 | 清风班春 | [76561198938976695](https://steamcommunity.com/profiles/76561198938976695) |  |  |
-| jackykh | [76561198083979694](https://steamcommunity.com/profiles/76561198083979694) |  |  |
-| 180 | [76561198081430238](https://steamcommunity.com/profiles/76561198081430238) |  |  |
-| 180.2 | [76561199048027117](https://steamcommunity.com/profiles/76561199048027117) |  |  |
+|  | [76561198083979694](https://steamcommunity.com/profiles/76561198083979694) |  |  |
+|  | [76561198081430238](https://steamcommunity.com/profiles/76561198081430238) |  |  |
+|  | [76561199048027117](https://steamcommunity.com/profiles/76561199048027117) |  |  |
 | .i. | [76561198107896591](https://steamcommunity.com/profiles/76561198107896591) | BANDIT |  |
 | Genius | [76561198839646162](https://steamcommunity.com/profiles/76561198839646162) |  |  |
 | [ACE] RAPTOR | [76561198073103373](https://steamcommunity.com/profiles/76561198073103373) |  |  |
