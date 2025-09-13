@@ -4,7 +4,7 @@
 | Name | Steam URL ID | Aliases | Note |
 | ------ | ------ | ------ | ------ |
 | Johnny (ACTIVE) | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
-| RinCo | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
+|  | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
 | moon | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | novilen | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | 𝓼𝓸𝓵𝓪 | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
@@ -46,7 +46,7 @@
 | Ocelot399 | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
 | Atlas | [76561198826655112](https://steamcommunity.com/profiles/76561198826655112) |  |  |
 | Suri | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
-| THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
+|  | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
 | xEpic tea | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
 | fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
 | Morgan | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  | Very&#32;bad |
@@ -102,7 +102,7 @@
 | 已经无敌了 | [76561198173106266](https://steamcommunity.com/profiles/76561198173106266) |  |  |
 | 刻苦练狙的肯尼迪 | [76561199220489238](https://steamcommunity.com/profiles/76561199220489238) |  |  |
 | chan963 | [76561198098057946](https://steamcommunity.com/profiles/76561198098057946) |  |  |
-| KatLuci | [76561199030551934](https://steamcommunity.com/profiles/76561199030551934) |  |  |
+|  | [76561199030551934](https://steamcommunity.com/profiles/76561199030551934) |  |  |
 | aease | [76561198805841062](https://steamcommunity.com/profiles/76561198805841062) |  |  |
 | Panavia Tornado7 | [76561199559441337](https://steamcommunity.com/profiles/76561199559441337) | Dawid49 |  |
 | Mej.Fikri Iskandar | [76561199247186112](https://steamcommunity.com/profiles/76561199247186112) |  |  |
