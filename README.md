@@ -4,7 +4,7 @@
 | Name | Steam URL ID | Aliases | Note |
 | ------ | ------ | ------ | ------ |
 | Johnny (ACTIVE) | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
-| RinCo | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
+|  | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
 | moon | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | novilen | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;political&#32;insults,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | 𝓼𝓸𝓵𝓪 | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
@@ -66,7 +66,7 @@
 | The road to heaven | [76561199232107732](https://steamcommunity.com/profiles/76561199232107732) | skywY |  |
 | k4d | [76561198453452152](https://steamcommunity.com/profiles/76561198453452152) |  |  |
 | Kr0nos7698 | [76561199557221173](https://steamcommunity.com/profiles/76561199557221173) |  |  |
-| Evrito | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
+|  | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
 | Morgana | [76561199746223919](https://steamcommunity.com/profiles/76561199746223919) |  |  |
 | NoobMaster6969 | [76561199498943010](https://steamcommunity.com/profiles/76561199498943010) |  |  |
 | magipote | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
@@ -132,8 +132,8 @@
 | Bread | [76561199096257101](https://steamcommunity.com/profiles/76561199096257101) |  |  |
 | *****isarubbish54188 | [76561199165893750](https://steamcommunity.com/profiles/76561199165893750) |  |  |
 | quijada_2212 | [76561199194351688](https://steamcommunity.com/profiles/76561199194351688) |  |  |
-| alexverissimo363 | [76561198830427352](https://steamcommunity.com/profiles/76561198830427352) |  |  |
-| 官本武藏 | [76561199509409670](https://steamcommunity.com/profiles/76561199509409670) |  |  |
+|  | [76561198830427352](https://steamcommunity.com/profiles/76561198830427352) |  |  |
+|  | [76561199509409670](https://steamcommunity.com/profiles/76561199509409670) |  |  |
 | bury the light | [76561198799783195](https://steamcommunity.com/profiles/76561198799783195) |  |  |
 | 老七 | [76561198162143609](https://steamcommunity.com/profiles/76561198162143609) |  |  |
 | zakaclase | [76561198240455784](https://steamcommunity.com/profiles/76561198240455784) |  |  |
@@ -147,8 +147,8 @@
 | 才羽桃井 | [76561198989140840](https://steamcommunity.com/profiles/76561198989140840) | YppahnU |  |
 | Playboy·S | [76561198448282067](https://steamcommunity.com/profiles/76561198448282067) |  |  |
 | 东栩 | [76561199261241054](https://steamcommunity.com/profiles/76561199261241054) |  |  |
-| The Harbinger of Death | [76561199404905416](https://steamcommunity.com/profiles/76561199404905416) |  |  |
-| LOBO1975 | [76561198143645427](https://steamcommunity.com/profiles/76561198143645427) |  |  |
+|  | [76561199404905416](https://steamcommunity.com/profiles/76561199404905416) |  |  |
+|  | [76561198143645427](https://steamcommunity.com/profiles/76561198143645427) |  |  |
 | 1829824256 | [76561199757824462](https://steamcommunity.com/profiles/76561199757824462) |  |  |
 | 未来の社畜 | [76561199564901138](https://steamcommunity.com/profiles/76561199564901138) | やふゆる_Vtuber |  |
 | Yellow 13 | [76561199758677819](https://steamcommunity.com/profiles/76561199758677819) |  |  |
@@ -161,7 +161,7 @@
 | Mr.SY | [76561198443659202](https://steamcommunity.com/profiles/76561198443659202) |  |  |
 | Na | [76561198869878353](https://steamcommunity.com/profiles/76561198869878353) | な |  |
 | ㄇㄉㄈㄎ | [76561198818703363](https://steamcommunity.com/profiles/76561198818703363) | 3D |  |
-| Carpet | [76561198133305602](https://steamcommunity.com/profiles/76561198133305602) |  |  |
+|  | [76561198133305602](https://steamcommunity.com/profiles/76561198133305602) |  |  |
 | Tsu | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
 | Fake Simon3 | [76561199475570948](https://steamcommunity.com/profiles/76561199475570948) |  |  |
 | Blahaj supremacy | [76561198897831595](https://steamcommunity.com/profiles/76561198897831595) | Blahaj&#32;supremacy |  |
