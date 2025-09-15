@@ -246,7 +246,7 @@
 | spartus06 | [76561198304384143](https://steamcommunity.com/profiles/76561198304384143) |  |  |
 | Ronin Eternal | [76561198150304103](https://steamcommunity.com/profiles/76561198150304103) |  |  |
 | 夕阳武士与狗， | [76561198294378412](https://steamcommunity.com/profiles/76561198294378412) |  |  |
-|  | [76561198982424786](https://steamcommunity.com/profiles/76561198982424786) |  |  |
+| ConfidentlyWrong | [76561198982424786](https://steamcommunity.com/profiles/76561198982424786) |  |  |
 | 大币币 | [76561199535817299](https://steamcommunity.com/profiles/76561199535817299) |  |  |
 | OnePunchMan69 | [76561198177980518](https://steamcommunity.com/profiles/76561198177980518) |  |  |
 | Storm | [76561198917360011](https://steamcommunity.com/profiles/76561198917360011) |  |  |
