@@ -25,10 +25,10 @@
 | Vzntrical | [76561199864552848](https://steamcommunity.com/profiles/76561199864552848) |  |  |
 | seungri4562 | [76561199240386234](https://steamcommunity.com/profiles/76561199240386234) |  |  |
 | Cadim | [76561198136279568](https://steamcommunity.com/profiles/76561198136279568) |  |  |
-| 1mo汉堡包 | [76561198287981743](https://steamcommunity.com/profiles/76561198287981743) |  |  |
-| Itsbatnam | [76561198045477748](https://steamcommunity.com/profiles/76561198045477748) |  |  |
-| 残虹 | [76561199049496733](https://steamcommunity.com/profiles/76561199049496733) |  |  |
-| Bentley dylan | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
+|  | [76561198287981743](https://steamcommunity.com/profiles/76561198287981743) |  |  |
+|  | [76561198045477748](https://steamcommunity.com/profiles/76561198045477748) |  |  |
+|  | [76561199049496733](https://steamcommunity.com/profiles/76561199049496733) |  |  |
+|  | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
 | I Try Then Rage | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
@@ -193,10 +193,10 @@
 | Aerospace8 | [76561198117229678](https://steamcommunity.com/profiles/76561198117229678) |  |  |
 | DJMAX | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
 | Arepa | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
-|  | [76561198358276789](https://steamcommunity.com/profiles/76561198358276789) |  |  |
-|  | [76561198444660192](https://steamcommunity.com/profiles/76561198444660192) |  |  |
-|  | [76561198367447457](https://steamcommunity.com/profiles/76561198367447457) |  |  |
-|  | [76561199027978364](https://steamcommunity.com/profiles/76561199027978364) |  |  |
+| sfasijo | [76561198358276789](https://steamcommunity.com/profiles/76561198358276789) |  |  |
+| 532977060 | [76561198444660192](https://steamcommunity.com/profiles/76561198444660192) |  |  |
+| KINIX | [76561198367447457](https://steamcommunity.com/profiles/76561198367447457) |  |  |
+| 陈CXHK | [76561199027978364](https://steamcommunity.com/profiles/76561199027978364) |  |  |
 | madsenskyler39 | [76561199530166685](https://steamcommunity.com/profiles/76561199530166685) |  |  |
 | Torero | [76561199216725193](https://steamcommunity.com/profiles/76561199216725193) | Skyfire |  |
 | 󠀡󠀡 | [76561199135446407](https://steamcommunity.com/profiles/76561199135446407) |  |  |
