@@ -163,9 +163,9 @@
 | Mr.SY | [76561198443659202](https://steamcommunity.com/profiles/76561198443659202) |  |  |
 | Na | [76561198869878353](https://steamcommunity.com/profiles/76561198869878353) | な |  |
 | ㄇㄉㄈㄎ | [76561198818703363](https://steamcommunity.com/profiles/76561198818703363) | 3D |  |
-|  | [76561198133305602](https://steamcommunity.com/profiles/76561198133305602) |  |  |
-|  | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
-|  | [76561199475570948](https://steamcommunity.com/profiles/76561199475570948) |  |  |
+| Carpet | [76561198133305602](https://steamcommunity.com/profiles/76561198133305602) |  |  |
+| Tsu | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
+| Fake Simon3 | [76561199475570948](https://steamcommunity.com/profiles/76561199475570948) |  |  |
 | Blahaj supremacy | [76561198897831595](https://steamcommunity.com/profiles/76561198897831595) | Blahaj&#32;supremacy |  |
 | SSSchwarz | [76561198446971768](https://steamcommunity.com/profiles/76561198446971768) | SSSchwarz |  |
 | 76561199304050583 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  | Very&#32;bad |
@@ -182,10 +182,10 @@
 | el_cafezon | [76561198330062913](https://steamcommunity.com/profiles/76561198330062913) |  |  |
 | Grifter | [76561199559791137](https://steamcommunity.com/profiles/76561199559791137) |  |  |
 | NH | [76561198055477808](https://steamcommunity.com/profiles/76561198055477808) |  |  |
-|  | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
-|  | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
-|  | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
-|  | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
+| goosethegooseyboose | [76561199122312731](https://steamcommunity.com/profiles/76561199122312731) |  |  |
+| Mostri2050 | [76561198876580116](https://steamcommunity.com/profiles/76561198876580116) |  |  |
+| Kasuito2555 | [76561198359448207](https://steamcommunity.com/profiles/76561198359448207) |  |  |
+| Z-SER-0 | [76561199214790001](https://steamcommunity.com/profiles/76561199214790001) | ViperZER0 |  |
 | Baby | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) | K0T3TSU |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
