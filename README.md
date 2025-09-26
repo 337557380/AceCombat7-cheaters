@@ -3,10 +3,10 @@
 
 | Name | Steam URL ID | Aliases | Note |
 | ------ | ------ | ------ | ------ |
-| Yuna | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library |
+| Raxky | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library |
 | Morgan | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  | Very&#32;bad |
 | Johnny | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
-| Esyne | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby |  |
+| Alex | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby |  |
 | Lunaso0 | [76561198046742690](https://steamcommunity.com/profiles/76561198046742690) |  |  |
 | Pixy | [76561199474482517](https://steamcommunity.com/profiles/76561199474482517) | Azrael |  |
 | DO NOT | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
