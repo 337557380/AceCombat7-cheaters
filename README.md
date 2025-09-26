@@ -39,16 +39,16 @@
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
 | oplang13 | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
 | Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
-| spockobaka | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
+| Zorin | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
 | Sαηdmαn | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
 | Agaion | [76561199792856187](https://steamcommunity.com/profiles/76561199792856187) |  |  |
 | Gabe Newell | [76561199531085713](https://steamcommunity.com/profiles/76561199531085713) |  |  |
 | 柴郡柴郡柴 | [76561198810026504](https://steamcommunity.com/profiles/76561198810026504) |  |  |
-|  | [76561199789168958](https://steamcommunity.com/profiles/76561199789168958) |  |  |
-|  | [76561198426232443](https://steamcommunity.com/profiles/76561198426232443) |  |  |
-|  | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
-|  | [76561198826655112](https://steamcommunity.com/profiles/76561198826655112) |  |  |
-|  | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
+| ArifxD | [76561199789168958](https://steamcommunity.com/profiles/76561199789168958) |  |  |
+| Zatooo | [76561198426232443](https://steamcommunity.com/profiles/76561198426232443) |  |  |
+| Ocelot399 | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
+| Atlas | [76561198826655112](https://steamcommunity.com/profiles/76561198826655112) |  |  |
+| Suri | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
 | THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
 | xEpic tea | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
 | fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
