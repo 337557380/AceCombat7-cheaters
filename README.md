@@ -71,7 +71,7 @@
 | Evrito | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
 | Morgana | [76561199746223919](https://steamcommunity.com/profiles/76561199746223919) |  |  |
 | NoobMaster6969 | [76561199498943010](https://steamcommunity.com/profiles/76561199498943010) |  |  |
-| magipote | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
+| 2yesllo0 | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
 | 破天荒 | [76561198980099902](https://steamcommunity.com/profiles/76561198980099902) |  |  |
 | wuyang | [76561198798948279](https://steamcommunity.com/profiles/76561198798948279) | 誌譐好侽人 |  |
 | Profile Name | [76561198069163237](https://steamcommunity.com/profiles/76561198069163237) | ChatGPT |  |
@@ -206,10 +206,10 @@
 | 老司鸡 | [76561198443132230](https://steamcommunity.com/profiles/76561198443132230) |  |  |
 | Overlord | [76561198829863126](https://steamcommunity.com/profiles/76561198829863126) | Skyle@der |  |
 | RED-DAX-XIII | [76561198345323408](https://steamcommunity.com/profiles/76561198345323408) |  |  |
-|  | [76561198151947614](https://steamcommunity.com/profiles/76561198151947614) |  |  |
-|  | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
-|  | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
-|  | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
+| Filltap | [76561198151947614](https://steamcommunity.com/profiles/76561198151947614) |  |  |
+| Chuck | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
+| Strider | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
+| Crimson | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
 | IonizedAtom | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
 | Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
 | ZY06 | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
