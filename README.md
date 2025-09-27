@@ -158,10 +158,10 @@
 | KEROSENE | [76561199575141589](https://steamcommunity.com/profiles/76561199575141589) |  |  |
 | ๋ | [76561198869410066](https://steamcommunity.com/profiles/76561198869410066) | Lacia |  |
 | あつこ | [76561199154791762](https://steamcommunity.com/profiles/76561199154791762) |  |  |
-|  | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
-|  | [76561199025138813](https://steamcommunity.com/profiles/76561199025138813) |  |  |
-|  | [76561198443659202](https://steamcommunity.com/profiles/76561198443659202) |  |  |
-|  | [76561198869878353](https://steamcommunity.com/profiles/76561198869878353) | な |  |
+| CNEOS1-kryo | [76561199590949305](https://steamcommunity.com/profiles/76561199590949305) |  |  |
+| conesama | [76561199025138813](https://steamcommunity.com/profiles/76561199025138813) |  |  |
+| Mr.SY | [76561198443659202](https://steamcommunity.com/profiles/76561198443659202) |  |  |
+| Na | [76561198869878353](https://steamcommunity.com/profiles/76561198869878353) | な |  |
 | ㄇㄉㄈㄎ | [76561198818703363](https://steamcommunity.com/profiles/76561198818703363) | 3D |  |
 | Carpet | [76561198133305602](https://steamcommunity.com/profiles/76561198133305602) |  |  |
 | Tsu | [76561198850362167](https://steamcommunity.com/profiles/76561198850362167) | Bravo |  |
@@ -206,10 +206,10 @@
 | 老司鸡 | [76561198443132230](https://steamcommunity.com/profiles/76561198443132230) |  |  |
 | Overlord | [76561198829863126](https://steamcommunity.com/profiles/76561198829863126) | Skyle@der |  |
 | RED-DAX-XIII | [76561198345323408](https://steamcommunity.com/profiles/76561198345323408) |  |  |
-| Filltap | [76561198151947614](https://steamcommunity.com/profiles/76561198151947614) |  |  |
-| Chuck | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
-| Strider | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
-| Crimson | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
+|  | [76561198151947614](https://steamcommunity.com/profiles/76561198151947614) |  |  |
+|  | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
+|  | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
+|  | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
 | IonizedAtom | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
 | Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
 | ZY06 | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
