@@ -49,10 +49,10 @@
 | Ocelot399 | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
 | Atlas | [76561198826655112](https://steamcommunity.com/profiles/76561198826655112) |  |  |
 | Suri | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
-|  | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
-|  | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
-|  | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
-|  | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
+| THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
+| xEpic tea | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
+| fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
+| INoyanæ | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
 | Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | SALIVAN | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
 | Blaze | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
@@ -90,11 +90,11 @@
 | nehz | [76561198390523516](https://steamcommunity.com/profiles/76561198390523516) |  |  |
 | peachy | [76561198115163007](https://steamcommunity.com/profiles/76561198115163007) |  |  |
 | のない | [76561199158862919](https://steamcommunity.com/profiles/76561199158862919) |  |  |
-| is5085237 | [76561199755649701](https://steamcommunity.com/profiles/76561199755649701) |  |  |
-| TR7Undertaker | [76561198355506841](https://steamcommunity.com/profiles/76561198355506841) |  |  |
-| 弥生木靈 | [76561199029058407](https://steamcommunity.com/profiles/76561199029058407) |  |  |
-| Rin | [76561199364578791](https://steamcommunity.com/profiles/76561199364578791) |  |  |
-| Softvase | [76561199085560339](https://steamcommunity.com/profiles/76561199085560339) |  |  |
+|  | [76561199755649701](https://steamcommunity.com/profiles/76561199755649701) |  |  |
+|  | [76561198355506841](https://steamcommunity.com/profiles/76561198355506841) |  |  |
+|  | [76561199029058407](https://steamcommunity.com/profiles/76561199029058407) |  |  |
+|  | [76561199364578791](https://steamcommunity.com/profiles/76561199364578791) |  |  |
+|  | [76561199085560339](https://steamcommunity.com/profiles/76561199085560339) |  |  |
 | Agnes Tachyon's guinea pig | [76561199743577888](https://steamcommunity.com/profiles/76561199743577888) | Zetamin |  |
 | RDX_Neket | [76561199650989330](https://steamcommunity.com/profiles/76561199650989330) |  |  |
 | 阿雾绫 | [76561199317817093](https://steamcommunity.com/profiles/76561199317817093) |  |  |
@@ -137,12 +137,12 @@
 | alexverissimo363 | [76561198830427352](https://steamcommunity.com/profiles/76561198830427352) |  |  |
 | 官本武藏 | [76561199509409670](https://steamcommunity.com/profiles/76561199509409670) |  |  |
 | bury the light | [76561198799783195](https://steamcommunity.com/profiles/76561198799783195) |  |  |
-| 老七 | [76561198162143609](https://steamcommunity.com/profiles/76561198162143609) |  |  |
-| zakaclase | [76561198240455784](https://steamcommunity.com/profiles/76561198240455784) |  |  |
-| Ihr_Schatten_1018 | [76561199793561583](https://steamcommunity.com/profiles/76561199793561583) | Ihr_Schatten_1018 | Very&#32;bad |
-| 台湾第一男枪 陈桂林 | [76561198961251476](https://steamcommunity.com/profiles/76561198961251476) |  |  |
-| Faith | [76561199672316305](https://steamcommunity.com/profiles/76561199672316305) | ♥Oriana♥ |  |
-| WDHBHHM | [76561198113027625](https://steamcommunity.com/profiles/76561198113027625) |  |  |
+|  | [76561198162143609](https://steamcommunity.com/profiles/76561198162143609) |  |  |
+|  | [76561198240455784](https://steamcommunity.com/profiles/76561198240455784) |  |  |
+|  | [76561199793561583](https://steamcommunity.com/profiles/76561199793561583) | Ihr_Schatten_1018 | Very&#32;bad |
+|  | [76561198961251476](https://steamcommunity.com/profiles/76561198961251476) |  |  |
+|  | [76561199672316305](https://steamcommunity.com/profiles/76561199672316305) | ♥Oriana♥ |  |
+|  | [76561198113027625](https://steamcommunity.com/profiles/76561198113027625) |  |  |
 | Emzyy | [76561199447102360](https://steamcommunity.com/profiles/76561199447102360) |  |  |
 | [SHADE] Majin_Buubies | [76561199165329754](https://steamcommunity.com/profiles/76561199165329754) |  |  |
 | zek•s | [76561198206731741](https://steamcommunity.com/profiles/76561198206731741) |  |  |
