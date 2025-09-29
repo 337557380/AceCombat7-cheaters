@@ -210,12 +210,12 @@
 | Chuck | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
 | Strider | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
 | Crimson | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
-|  | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
-|  | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
-|  | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
-|  | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
-|  | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
-|  | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
+| IonizedAtom | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
+| Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
+| ZY06 | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
+| minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
+| Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
+| The Author | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
 | 20S | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
 | kimono | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
@@ -231,10 +231,10 @@
 | Mike Hunt | [76561199489780880](https://steamcommunity.com/profiles/76561199489780880) | Mike&#32;Hunt | Very&#32;bad |
 | CHINESE DRONE | [76561199247196637](https://steamcommunity.com/profiles/76561199247196637) | 奥西亚无人机 |  |
 | master1337 | [76561198107387037](https://steamcommunity.com/profiles/76561198107387037) |  |  |
-| 龙若琳 | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
-| 밍창이 | [76561198145619796](https://steamcommunity.com/profiles/76561198145619796) |  |  |
-| Violet | [76561199140082027](https://steamcommunity.com/profiles/76561199140082027) |  |  |
-| 𝕊𝕀𝕄☬𝕌ℝ𝔾 | [76561199401367551](https://steamcommunity.com/profiles/76561199401367551) |  |  |
+|  | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
+|  | [76561198145619796](https://steamcommunity.com/profiles/76561198145619796) |  |  |
+|  | [76561199140082027](https://steamcommunity.com/profiles/76561199140082027) |  |  |
+|  | [76561199401367551](https://steamcommunity.com/profiles/76561199401367551) |  |  |
 | Musgus | [76561198859884192](https://steamcommunity.com/profiles/76561198859884192) |  |  |
 | Scorpion King | [76561198038827316](https://steamcommunity.com/profiles/76561198038827316) |  |  |
 | 临琛 | [76561199474926894](https://steamcommunity.com/profiles/76561199474926894) | 风卷尘生 |  |
