@@ -57,10 +57,10 @@
 | SALIVAN | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
 | Blaze | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
 | 595615683 | [76561198335186846](https://steamcommunity.com/profiles/76561198335186846) |  |  |
-| 妄 | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
-| koban3_jp | [76561199073231961](https://steamcommunity.com/profiles/76561199073231961) |  |  |
-| nibba | [76561198929215067](https://steamcommunity.com/profiles/76561198929215067) |  |  |
-| 逍遥小仙翁 | [76561199224123229](https://steamcommunity.com/profiles/76561199224123229) |  |  |
+|  | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
+|  | [76561199073231961](https://steamcommunity.com/profiles/76561199073231961) |  |  |
+|  | [76561198929215067](https://steamcommunity.com/profiles/76561198929215067) |  |  |
+|  | [76561199224123229](https://steamcommunity.com/profiles/76561199224123229) |  |  |
 | Officer Balls | [76561199385458529](https://steamcommunity.com/profiles/76561199385458529) | ladiesman217 |  |
 | ayanbaraighost141 | [76561199241517841](https://steamcommunity.com/profiles/76561199241517841) |  |  |
 | YoiYoiDzuhki | [76561198531827523](https://steamcommunity.com/profiles/76561198531827523) |  |  |
