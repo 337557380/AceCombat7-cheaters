@@ -139,10 +139,10 @@
 | bury the light | [76561198799783195](https://steamcommunity.com/profiles/76561198799783195) |  |  |
 | 老七 | [76561198162143609](https://steamcommunity.com/profiles/76561198162143609) |  |  |
 | zakaclase | [76561198240455784](https://steamcommunity.com/profiles/76561198240455784) |  |  |
-| Ihr_Schatten_1018 | [76561199793561583](https://steamcommunity.com/profiles/76561199793561583) | Ihr_Schatten_1018 | Very&#32;bad |
-| 台湾第一男枪 陈桂林 | [76561198961251476](https://steamcommunity.com/profiles/76561198961251476) |  |  |
-| Faith | [76561199672316305](https://steamcommunity.com/profiles/76561199672316305) | ♥Oriana♥ |  |
-| WDHBHHM | [76561198113027625](https://steamcommunity.com/profiles/76561198113027625) |  |  |
+|  | [76561199793561583](https://steamcommunity.com/profiles/76561199793561583) | Ihr_Schatten_1018 | Very&#32;bad |
+|  | [76561198961251476](https://steamcommunity.com/profiles/76561198961251476) |  |  |
+|  | [76561199672316305](https://steamcommunity.com/profiles/76561199672316305) | ♥Oriana♥ |  |
+|  | [76561198113027625](https://steamcommunity.com/profiles/76561198113027625) |  |  |
 | Emzyy | [76561199447102360](https://steamcommunity.com/profiles/76561199447102360) |  |  |
 | [SHADE] Majin_Buubies | [76561199165329754](https://steamcommunity.com/profiles/76561199165329754) |  |  |
 | zek•s | [76561198206731741](https://steamcommunity.com/profiles/76561198206731741) |  |  |
