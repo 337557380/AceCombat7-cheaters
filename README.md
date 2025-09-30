@@ -37,10 +37,10 @@
 | I Try Then Rage | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
-|  | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
-|  | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
-|  | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
-|  | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
+| oplang13 | [76561199759680199](https://steamcommunity.com/profiles/76561199759680199) |  |  |
+| Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
+| Zorin | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
+| Sαηdmαn | [76561198021172153](https://steamcommunity.com/profiles/76561198021172153) | Pharaoh |  |
 | Agaion | [76561199792856187](https://steamcommunity.com/profiles/76561199792856187) |  |  |
 | Gabe Newell | [76561199531085713](https://steamcommunity.com/profiles/76561199531085713) |  |  |
 | 柴郡柴郡柴 | [76561198810026504](https://steamcommunity.com/profiles/76561198810026504) |  |  |
