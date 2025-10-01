@@ -146,11 +146,11 @@
 | Emzyy | [76561199447102360](https://steamcommunity.com/profiles/76561199447102360) |  |  |
 | [SHADE] Majin_Buubies | [76561199165329754](https://steamcommunity.com/profiles/76561199165329754) |  |  |
 | zek•s | [76561198206731741](https://steamcommunity.com/profiles/76561198206731741) |  |  |
-| 才羽桃 | [76561198989140840](https://steamcommunity.com/profiles/76561198989140840) | YppahnU |  |
-| Playboy·S | [76561198448282067](https://steamcommunity.com/profiles/76561198448282067) |  |  |
-| 东栩 | [76561199261241054](https://steamcommunity.com/profiles/76561199261241054) |  |  |
-| The Harbinger of Death | [76561199404905416](https://steamcommunity.com/profiles/76561199404905416) |  |  |
-| LOBO1975 | [76561198143645427](https://steamcommunity.com/profiles/76561198143645427) |  |  |
+|  | [76561198989140840](https://steamcommunity.com/profiles/76561198989140840) | YppahnU |  |
+|  | [76561198448282067](https://steamcommunity.com/profiles/76561198448282067) |  |  |
+|  | [76561199261241054](https://steamcommunity.com/profiles/76561199261241054) |  |  |
+|  | [76561199404905416](https://steamcommunity.com/profiles/76561199404905416) |  |  |
+|  | [76561198143645427](https://steamcommunity.com/profiles/76561198143645427) |  |  |
 | 1829824256 | [76561199757824462](https://steamcommunity.com/profiles/76561199757824462) |  |  |
 | 未来の社畜 | [76561199564901138](https://steamcommunity.com/profiles/76561199564901138) | やふゆる_Vtuber |  |
 | Yellow 13 | [76561199758677819](https://steamcommunity.com/profiles/76561199758677819) |  |  |
@@ -217,12 +217,12 @@
 | Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | The Author | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
-| 20S | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
-| kimono | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
-| 蜡笔小蟹 | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
-| Crazystarwar | [76561198426925179](https://steamcommunity.com/profiles/76561198426925179) |  |  |
-| Max Caulfield | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
-| noodle the sneck | [76561199229760980](https://steamcommunity.com/profiles/76561199229760980) |  |  |
+|  | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
+|  | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
+|  | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
+|  | [76561198426925179](https://steamcommunity.com/profiles/76561198426925179) |  |  |
+|  | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
+|  | [76561199229760980](https://steamcommunity.com/profiles/76561199229760980) |  |  |
 | MagmaDash | [76561199004004915](https://steamcommunity.com/profiles/76561199004004915) |  |  |
 | ControlC | [76561198043036941](https://steamcommunity.com/profiles/76561198043036941) |  |  |
 | Sky | [76561199497116434](https://steamcommunity.com/profiles/76561199497116434) |  |  |
