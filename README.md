@@ -113,12 +113,12 @@
 | longE_MC | [76561199243693978](https://steamcommunity.com/profiles/76561199243693978) |  | Very&#32;bad |
 | ryoichi.sakata | [76561198992622959](https://steamcommunity.com/profiles/76561198992622959) |  |  |
 | Dreamcatcher | [76561199233210122](https://steamcommunity.com/profiles/76561199233210122) |  |  |
-|  | [76561198026812263](https://steamcommunity.com/profiles/76561198026812263) |  |  |
-|  | [76561199245898520](https://steamcommunity.com/profiles/76561199245898520) |  |  |
-|  | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
-|  | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
-|  | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
-|  | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
+| VF | [76561198026812263](https://steamcommunity.com/profiles/76561198026812263) |  |  |
+| M. Félix | [76561199245898520](https://steamcommunity.com/profiles/76561199245898520) |  |  |
+| RangerNL12 | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
+| Dr.Kepler | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
+| powergerchus | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
+| Gon | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
 | Camus | [76561199055046757](https://steamcommunity.com/profiles/76561199055046757) |  |  |
 | f1shift | [76561198883657609](https://steamcommunity.com/profiles/76561198883657609) |  |  |
 | Grana[ITA] | [76561198085046695](https://steamcommunity.com/profiles/76561198085046695) |  |  |
