@@ -210,13 +210,13 @@
 | RED-DAX-XIII | [76561198345323408](https://steamcommunity.com/profiles/76561198345323408) |  |  |
 | Filltap | [76561198151947614](https://steamcommunity.com/profiles/76561198151947614) |  |  |
 | Chuck | [76561198961226717](https://steamcommunity.com/profiles/76561198961226717) |  |  |
-|  | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
-|  | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
-|  | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
-|  | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
-|  | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
-|  | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
-|  | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
+| Strider | [76561198994345306](https://steamcommunity.com/profiles/76561198994345306) | Mister&#32;Tartaria |  |
+| Crimson | [76561198256021122](https://steamcommunity.com/profiles/76561198256021122) |  |  |
+| IonizedAtom | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
+| Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
+| ZY06 | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
+| minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
+| Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
 | Der Kaiser | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
 | rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
 | 20S | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
@@ -297,7 +297,7 @@
 | WisdomTong | [76561198407886594](https://steamcommunity.com/profiles/76561198407886594) |  |  |
 | ATHOOD | [76561198101337488](https://steamcommunity.com/profiles/76561198101337488) |  |  |
 | 一个不正经的老头 | [76561198851216499](https://steamcommunity.com/profiles/76561198851216499) |  |  |
-|  | [76561198078057512](https://steamcommunity.com/profiles/76561198078057512) |  |  |
+| &lt;font color=rpg#FF3030&gt;Vigoss | [76561198078057512](https://steamcommunity.com/profiles/76561198078057512) |  |  |
 | 武破千軍 | [76561198076137075](https://steamcommunity.com/profiles/76561198076137075) |  |  |
 | Alipapa | [76561199032447430](https://steamcommunity.com/profiles/76561199032447430) |  |  |
 | 网上比街上热闹 | [76561199028490431](https://steamcommunity.com/profiles/76561199028490431) |  |  |
