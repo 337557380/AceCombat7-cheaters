@@ -152,12 +152,12 @@
 | 才羽桃 | [76561198989140840](https://steamcommunity.com/profiles/76561198989140840) | YppahnU |  |
 | Playboy·S | [76561198448282067](https://steamcommunity.com/profiles/76561198448282067) |  |  |
 | 东栩 | [76561199261241054](https://steamcommunity.com/profiles/76561199261241054) |  |  |
-|  | [76561199404905416](https://steamcommunity.com/profiles/76561199404905416) |  |  |
+| The Harbinger of Death | [76561199404905416](https://steamcommunity.com/profiles/76561199404905416) |  |  |
 | LOBO1975 | [76561198143645427](https://steamcommunity.com/profiles/76561198143645427) |  |  |
 | 1829824256 | [76561199757824462](https://steamcommunity.com/profiles/76561199757824462) |  |  |
 | 未来の社畜 | [76561199564901138](https://steamcommunity.com/profiles/76561199564901138) | やふゆる_Vtuber |  |
 | Yellow 13 | [76561199758677819](https://steamcommunity.com/profiles/76561199758677819) |  |  |
-|  | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
+| HASAUEI | [76561198075692143](https://steamcommunity.com/profiles/76561198075692143) |  |  |
 | KEROSENE | [76561199575141589](https://steamcommunity.com/profiles/76561199575141589) |  |  |
 | ๋ | [76561198869410066](https://steamcommunity.com/profiles/76561198869410066) | Lacia |  |
 | あつこ | [76561199154791762](https://steamcommunity.com/profiles/76561199154791762) |  |  |
@@ -173,11 +173,11 @@
 | SSSchwarz | [76561198446971768](https://steamcommunity.com/profiles/76561198446971768) | SSSchwarz |  |
 | 76561199304050583 | [76561199304050583](https://steamcommunity.com/profiles/76561199304050583) |  | Very&#32;bad |
 | 活暗暗 | [76561198816925680](https://steamcommunity.com/profiles/76561198816925680) |  |  |
-|  | [76561199092155231](https://steamcommunity.com/profiles/76561199092155231) | 吉他 |  |
-|  | [76561199444803497](https://steamcommunity.com/profiles/76561199444803497) |  |  |
-|  | [76561198003231591](https://steamcommunity.com/profiles/76561198003231591) | shenghua3949 |  |
-|  | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
-|  | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
+| 敷衍大王 | [76561199092155231](https://steamcommunity.com/profiles/76561199092155231) | 吉他 |  |
+| 方塊酥 | [76561199444803497](https://steamcommunity.com/profiles/76561199444803497) |  |  |
+| 一位大团仔 | [76561198003231591](https://steamcommunity.com/profiles/76561198003231591) | shenghua3949 |  |
+| Lunar | [76561198299775669](https://steamcommunity.com/profiles/76561198299775669) |  |  |
+| caonimeigu | [76561199361973029](https://steamcommunity.com/profiles/76561199361973029) |  |  |
 | Malkars | [76561199543154000](https://steamcommunity.com/profiles/76561199543154000) |  |  |
 | rafapt420 | [76561199549314093](https://steamcommunity.com/profiles/76561199549314093) |  |  |
 | elna82 | [76561198389918662](https://steamcommunity.com/profiles/76561198389918662) |  |  |
@@ -192,10 +192,10 @@
 | Baby | [76561198349602018](https://steamcommunity.com/profiles/76561198349602018) | K0T3TSU |  |
 | Colonel Cipher | [76561198074076241](https://steamcommunity.com/profiles/76561198074076241) | Colonel&#32;Cipher |  |
 | jjthesteve000 | [76561198893141948](https://steamcommunity.com/profiles/76561198893141948) |  |  |
-|  | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
-|  | [76561198008523364](https://steamcommunity.com/profiles/76561198008523364) | ShadowGamer101st |  |
-|  | [76561198980204295](https://steamcommunity.com/profiles/76561198980204295) |  |  |
-|  | [76561198117229678](https://steamcommunity.com/profiles/76561198117229678) |  |  |
+| RougeLarme | [76561198018473837](https://steamcommunity.com/profiles/76561198018473837) |  |  |
+| ShadowGamer101st | [76561198008523364](https://steamcommunity.com/profiles/76561198008523364) | ShadowGamer101st |  |
+| 处处吻✈ | [76561198980204295](https://steamcommunity.com/profiles/76561198980204295) |  |  |
+| Aerospace8 | [76561198117229678](https://steamcommunity.com/profiles/76561198117229678) |  |  |
 | DJMAX | [76561199581609988](https://steamcommunity.com/profiles/76561199581609988) |  |  |
 | Arepa | [76561199496733098](https://steamcommunity.com/profiles/76561199496733098) | ND-HE |  |
 | sfasijo | [76561198358276789](https://steamcommunity.com/profiles/76561198358276789) |  |  |
