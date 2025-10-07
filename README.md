@@ -21,7 +21,7 @@
 | Enterprise | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) | Enterprise |  |
 | 江泽民 | [76561198329707303](https://steamcommunity.com/profiles/76561198329707303) |  | Very&#32;bad,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive |
 | 世界第一 | [76561198303281186](https://steamcommunity.com/profiles/76561198303281186) |  |  |
-| Sukhoi | [76561199886547985](https://steamcommunity.com/profiles/76561199886547985) |  |  |
+|  | [76561199886547985](https://steamcommunity.com/profiles/76561199886547985) |  |  |
 | i_am_none77 | [76561199868607161](https://steamcommunity.com/profiles/76561199868607161) |  | Very&#32;bad |
 | SadrakMc | [76561199259668547](https://steamcommunity.com/profiles/76561199259668547) |  |  |
 | LOCH33 | [76561198206916607](https://steamcommunity.com/profiles/76561198206916607) |  |  |
@@ -52,11 +52,11 @@
 | Ocelot399 | [76561199085126090](https://steamcommunity.com/profiles/76561199085126090) |  |  |
 | Atlas | [76561198826655112](https://steamcommunity.com/profiles/76561198826655112) |  |  |
 | Suri | [76561198808378236](https://steamcommunity.com/profiles/76561198808378236) |  |  |
-| THE GOAT | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
+|  | [76561199849030505](https://steamcommunity.com/profiles/76561199849030505) |  |  |
 | xEpic tea | [76561198010879459](https://steamcommunity.com/profiles/76561198010879459) |  |  |
 | fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
-| INoyanæ | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
-| Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
+|  | [76561199401823112](https://steamcommunity.com/profiles/76561199401823112) |  |  |
+|  | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | Blaze | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
 | 595615683 | [76561198335186846](https://steamcommunity.com/profiles/76561198335186846) |  |  |
 | 妄 | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
@@ -93,7 +93,7 @@
 | peachy | [76561198115163007](https://steamcommunity.com/profiles/76561198115163007) |  |  |
 | のない | [76561199158862919](https://steamcommunity.com/profiles/76561199158862919) |  |  |
 | is5085237 | [76561199755649701](https://steamcommunity.com/profiles/76561199755649701) |  |  |
-| TR7Undertaker | [76561198355506841](https://steamcommunity.com/profiles/76561198355506841) |  |  |
+|  | [76561198355506841](https://steamcommunity.com/profiles/76561198355506841) |  |  |
 | 弥生木靈 | [76561199029058407](https://steamcommunity.com/profiles/76561199029058407) |  |  |
 | Rin | [76561199364578791](https://steamcommunity.com/profiles/76561199364578791) |  |  |
 | Softvase | [76561199085560339](https://steamcommunity.com/profiles/76561199085560339) |  |  |
@@ -101,15 +101,15 @@
 | RDX_Neket | [76561199650989330](https://steamcommunity.com/profiles/76561199650989330) |  |  |
 | 阿雾绫 | [76561199317817093](https://steamcommunity.com/profiles/76561199317817093) |  |  |
 | leon07116 | [76561198016904903](https://steamcommunity.com/profiles/76561198016904903) |  |  |
-| Blue Rose | [76561198398385657](https://steamcommunity.com/profiles/76561198398385657) |  |  |
-| LaPanne Motors | [76561198368764423](https://steamcommunity.com/profiles/76561198368764423) |  |  |
-| 已经无敌了 | [76561198173106266](https://steamcommunity.com/profiles/76561198173106266) |  |  |
+|  | [76561198398385657](https://steamcommunity.com/profiles/76561198398385657) |  |  |
+|  | [76561198368764423](https://steamcommunity.com/profiles/76561198368764423) |  |  |
+|  | [76561198173106266](https://steamcommunity.com/profiles/76561198173106266) |  |  |
 | 刻苦练狙的肯尼迪 | [76561199220489238](https://steamcommunity.com/profiles/76561199220489238) |  |  |
-| chan963 | [76561198098057946](https://steamcommunity.com/profiles/76561198098057946) |  |  |
-| Tetochi | [76561199030551934](https://steamcommunity.com/profiles/76561199030551934) |  |  |
+|  | [76561198098057946](https://steamcommunity.com/profiles/76561198098057946) |  |  |
+|  | [76561199030551934](https://steamcommunity.com/profiles/76561199030551934) |  |  |
 | aease | [76561198805841062](https://steamcommunity.com/profiles/76561198805841062) |  |  |
-| Panavia Tornado7 | [76561199559441337](https://steamcommunity.com/profiles/76561199559441337) | Dawid49 |  |
-| Mej.Fikri Iskandar | [76561199247186112](https://steamcommunity.com/profiles/76561199247186112) |  |  |
+|  | [76561199559441337](https://steamcommunity.com/profiles/76561199559441337) | Dawid49 |  |
+|  | [76561199247186112](https://steamcommunity.com/profiles/76561199247186112) |  |  |
 | 特雷森食堂第一突破手 | [76561199075984719](https://steamcommunity.com/profiles/76561199075984719) |  |  |
 | I am trash | [76561199207878242](https://steamcommunity.com/profiles/76561199207878242) |  |  |
 | longE_MC | [76561199243693978](https://steamcommunity.com/profiles/76561199243693978) |  | Very&#32;bad |
