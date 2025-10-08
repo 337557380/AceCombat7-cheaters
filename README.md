@@ -3,7 +3,7 @@
 
 | Name | Steam URL ID | Aliases | Note |
 | ------ | ------ | ------ | ------ |
-| fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
+| 靖 | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
 | Chimney | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | boboblex9077 | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library |
 | PoppyLewisX | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby | Frequent&#32;name&#32;changes |
