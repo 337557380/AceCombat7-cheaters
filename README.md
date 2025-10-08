@@ -6,7 +6,7 @@
 | fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
 | Chimney | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | boboblex9077 | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library |
-| Eliyahu | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby | Frequent&#32;name&#32;changes |
+| PoppyLewisX | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby | Frequent&#32;name&#32;changes |
 | 380586338 | [76561199877371190](https://steamcommunity.com/profiles/76561199877371190) |  |  |
 | Rocovis#F71 | [76561199216308131](https://steamcommunity.com/profiles/76561199216308131) |  |  |
 | Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
@@ -39,7 +39,7 @@
 | 1mo汉堡包 | [76561198287981743](https://steamcommunity.com/profiles/76561198287981743) |  |  |
 | Itsbatnam | [76561198045477748](https://steamcommunity.com/profiles/76561198045477748) |  |  |
 | 残虹 | [76561199049496733](https://steamcommunity.com/profiles/76561199049496733) |  |  |
-| 대한민국_11비행단 | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
+| 雷影战魂,风暴猎手 | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
 | I Try Then Rage | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
