@@ -6,6 +6,7 @@
 | fyhyugaefa | [76561198861931833](https://steamcommunity.com/profiles/76561198861931833) | ASJ | Very&#32;bad |
 | Chimney | [76561198379251619](https://steamcommunity.com/profiles/76561198379251619) | guivalla | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | boboblex9077 | [76561199103147131](https://steamcommunity.com/profiles/76561199103147131) | Rebely | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library |
+| Eliyahu | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby | Frequent&#32;name&#32;changes |
 | 380586338 | [76561199877371190](https://steamcommunity.com/profiles/76561199877371190) |  |  |
 | Rocovis#F71 | [76561199216308131](https://steamcommunity.com/profiles/76561199216308131) |  |  |
 | Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
@@ -13,7 +14,6 @@
 | 𝓼𝓸𝓵𝓪 | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
 | 271097752 | [76561198833098058](https://steamcommunity.com/profiles/76561198833098058) |  |  |
 | SALIVAN | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
-| Eliyahu | [76561198787726253](https://steamcommunity.com/profiles/76561198787726253) | Crybaby | Frequent&#32;name&#32;changes |
 | Morgan | [76561199245272853](https://steamcommunity.com/profiles/76561199245272853) |  | Very&#32;bad |
 | Johnny | [76561199812329207](https://steamcommunity.com/profiles/76561199812329207) | Johnny | Very&#32;bad,&#32;Frequent&#32;name&#32;changes |
 | Lunaso0 | [76561198046742690](https://steamcommunity.com/profiles/76561198046742690) |  |  |
