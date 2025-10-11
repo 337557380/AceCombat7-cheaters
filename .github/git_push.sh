@@ -1,4 +1,4 @@
-git config user.name "337557380"
+git config user.name "ForeverAM"
 git config user.email "foreveram@foxmail.com"
 
 cha=`git status -s`
