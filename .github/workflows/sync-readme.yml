@@ -1,4 +1,4 @@
-name: Sync README to Another Repo
+name: Sync README
 
 on:
   push:
