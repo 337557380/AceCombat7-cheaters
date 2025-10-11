@@ -1,0 +1,32 @@
+name: Sync README to Another Repo
+
+on:
+  push:
+    paths:
+      - 'README.md' # 只有当 README.md 文件发生变更时触发
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Sync to target repo
+        run: |
+          # 配置目标仓库的用户信息
+          git config --global user.email "337557380@qq.com"
+          git config --global user.name "ForeverAM"
+
+          # 克隆目标仓库
+          git clone https://${{ secrets.List_Transfer }}@github.com/ForeverAM/AceCombat7Cheaters.git target-repo
+
+          # 复制 README 文件
+          cp README.md target-repo/
+
+          # 提交并推送更改到目标仓库
+          cd target-repo
+          git add README.md
+          git commit -m "Sync README from source repo" || exit 0
+          git push
