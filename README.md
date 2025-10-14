@@ -66,7 +66,7 @@ Due to certain reasons, this old list is about to stop updating. Please visit th
 | Khalezy | [76561199150963881](https://steamcommunity.com/profiles/76561199150963881) |  |  |
 | Blaze | [76561199708481489](https://steamcommunity.com/profiles/76561199708481489) | Idz17 |  |
 | 595615683 | [76561198335186846](https://steamcommunity.com/profiles/76561198335186846) |  |  |
-| 绛 | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
+| 靈 | [76561198825033902](https://steamcommunity.com/profiles/76561198825033902) | 刄 |  |
 | koban3_jp | [76561199073231961](https://steamcommunity.com/profiles/76561199073231961) |  |  |
 | nibba | [76561198929215067](https://steamcommunity.com/profiles/76561198929215067) |  |  |
 | 逍遥小仙翁 | [76561199224123229](https://steamcommunity.com/profiles/76561199224123229) |  |  |
