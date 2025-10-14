@@ -33,7 +33,7 @@ done
 echo ${cheaters_Name[*]}
 
 echo '# AceCombat7 cheaters
-Okay, there was a small issue. Until I resolve it, I'll continue using this version
+Okay, there was a small issue. Until I resolve it, continue using this version
 
 行吧，出了点小问题，在我解决之前，继续使用这个版本
 
