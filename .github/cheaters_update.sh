@@ -33,9 +33,9 @@ done
 echo ${cheaters_Name[*]}
 
 echo '# AceCombat7 cheaters
-Due to certain reasons, this old list is about to stop updating. Please visit the new list link below "About" in the upper right corner of the page
+Okay, there was a small issue. Until I resolve it, I'll continue using this version
 
-由于某些原因，此旧名单即将停止更新，请访问页面右上角“About”下面的新名单链接
+行吧，出了点小问题，在我解决之前，继续使用这个版本
 
 
 | Name | Steam URL ID | Aliases | Note |
