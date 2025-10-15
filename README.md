@@ -79,9 +79,9 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | Kr0nos7698 | [76561199557221173](https://steamcommunity.com/profiles/76561199557221173) |  |  |
 | Evrito | [76561199544075601](https://steamcommunity.com/profiles/76561199544075601) |  |  |
 | Sergei Illich | [76561199746223919](https://steamcommunity.com/profiles/76561199746223919) |  |  |
-|  | [76561199498943010](https://steamcommunity.com/profiles/76561199498943010) |  |  |
-|  | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
-|  | [76561198980099902](https://steamcommunity.com/profiles/76561198980099902) |  |  |
+| NoobMaster6969 | [76561199498943010](https://steamcommunity.com/profiles/76561199498943010) |  |  |
+| skyaora | [76561199788482093](https://steamcommunity.com/profiles/76561199788482093) | Yvonne |  |
+| 破天荒 | [76561198980099902](https://steamcommunity.com/profiles/76561198980099902) |  |  |
 | wuyang | [76561198798948279](https://steamcommunity.com/profiles/76561198798948279) | 誌譐好侽人 |  |
 | Profile Name | [76561198069163237](https://steamcommunity.com/profiles/76561198069163237) | ChatGPT |  |
 | ?? | [76561199777977177](https://steamcommunity.com/profiles/76561199777977177) | PointBlank |  |
@@ -135,12 +135,12 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | Mifune | [76561198814705964](https://steamcommunity.com/profiles/76561198814705964) |  |  |
 | MOBIUS 1 GRIM REAPER | [76561198095972461](https://steamcommunity.com/profiles/76561198095972461) | GUYS,sally,go!&#32;-GIG! |  |
 | alanchan999 | [76561198068539704](https://steamcommunity.com/profiles/76561198068539704) |  |  |
-|  | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
-|  | [76561199145458014](https://steamcommunity.com/profiles/76561199145458014) |  |  |
-|  | [76561198356113029](https://steamcommunity.com/profiles/76561198356113029) |  |  |
-|  | [76561199505002057](https://steamcommunity.com/profiles/76561199505002057) | 情报员老秦 |  |
-|  | [76561199520283653](https://steamcommunity.com/profiles/76561199520283653) |  |  |
-|  | [76561199096257101](https://steamcommunity.com/profiles/76561199096257101) |  |  |
+| YMB_GRIM REAPERS | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
+| URUGUAYO1985 | [76561199145458014](https://steamcommunity.com/profiles/76561199145458014) |  |  |
+| POLA97X | [76561198356113029](https://steamcommunity.com/profiles/76561198356113029) |  |  |
+| 情报员老秦 | [76561199505002057](https://steamcommunity.com/profiles/76561199505002057) | 情报员老秦 |  |
+| cdot2rap | [76561199520283653](https://steamcommunity.com/profiles/76561199520283653) |  |  |
+| Bread | [76561199096257101](https://steamcommunity.com/profiles/76561199096257101) |  |  |
 | *****isarubbish54188 | [76561199165893750](https://steamcommunity.com/profiles/76561199165893750) |  |  |
 | quijada_2212 | [76561199194351688](https://steamcommunity.com/profiles/76561199194351688) |  |  |
 | alexverissimo363 | [76561198830427352](https://steamcommunity.com/profiles/76561198830427352) |  |  |
