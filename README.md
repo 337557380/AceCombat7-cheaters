@@ -242,10 +242,10 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | master1337 | [76561198107387037](https://steamcommunity.com/profiles/76561198107387037) |  |  |
 | 龙若琳 | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
 | 밍창이 | [76561198145619796](https://steamcommunity.com/profiles/76561198145619796) |  |  |
-|  | [76561199140082027](https://steamcommunity.com/profiles/76561199140082027) |  |  |
-|  | [76561199401367551](https://steamcommunity.com/profiles/76561199401367551) |  |  |
-|  | [76561198859884192](https://steamcommunity.com/profiles/76561198859884192) |  |  |
-|  | [76561198038827316](https://steamcommunity.com/profiles/76561198038827316) |  |  |
+| Violet | [76561199140082027](https://steamcommunity.com/profiles/76561199140082027) |  |  |
+| GADDAR☬GAFFUR | [76561199401367551](https://steamcommunity.com/profiles/76561199401367551) |  |  |
+| Musgus | [76561198859884192](https://steamcommunity.com/profiles/76561198859884192) |  |  |
+| Scorpion King | [76561198038827316](https://steamcommunity.com/profiles/76561198038827316) |  |  |
 | 临琛 | [76561199474926894](https://steamcommunity.com/profiles/76561199474926894) | 风卷尘生 |  |
 | พระเอกหนังงู | [76561198398157745](https://steamcommunity.com/profiles/76561198398157745) |  |  |
 | doom | [76561199227155475](https://steamcommunity.com/profiles/76561199227155475) |  |  |
