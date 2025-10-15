@@ -138,10 +138,10 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | YMB_GRIM REAPERS | [76561199501593849](https://steamcommunity.com/profiles/76561199501593849) |  |  |
 | URUGUAYO1985 | [76561199145458014](https://steamcommunity.com/profiles/76561199145458014) |  |  |
 | POLA97X | [76561198356113029](https://steamcommunity.com/profiles/76561198356113029) |  |  |
-| 情报员老秦 | [76561199505002057](https://steamcommunity.com/profiles/76561199505002057) | 情报员老秦 |  |
-| cdot2rap | [76561199520283653](https://steamcommunity.com/profiles/76561199520283653) |  |  |
-| Bread | [76561199096257101](https://steamcommunity.com/profiles/76561199096257101) |  |  |
-| *****isarubbish54188 | [76561199165893750](https://steamcommunity.com/profiles/76561199165893750) |  |  |
+|  | [76561199505002057](https://steamcommunity.com/profiles/76561199505002057) | 情报员老秦 |  |
+|  | [76561199520283653](https://steamcommunity.com/profiles/76561199520283653) |  |  |
+|  | [76561199096257101](https://steamcommunity.com/profiles/76561199096257101) |  |  |
+|  | [76561199165893750](https://steamcommunity.com/profiles/76561199165893750) |  |  |
 | quijada_2212 | [76561199194351688](https://steamcommunity.com/profiles/76561199194351688) |  |  |
 | alexverissimo363 | [76561198830427352](https://steamcommunity.com/profiles/76561198830427352) |  |  |
 | 官本武藏 | [76561199509409670](https://steamcommunity.com/profiles/76561199509409670) |  |  |
