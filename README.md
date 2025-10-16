@@ -26,10 +26,10 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | Pixy | [76561199474482517](https://steamcommunity.com/profiles/76561199474482517) | Azrael |  |
 | novilen | [76561198432223463](https://steamcommunity.com/profiles/76561198432223463) | kais | Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him |
 | sixfiguredebt | [76561199223435151](https://steamcommunity.com/profiles/76561199223435151) |  | Very&#32;bad |
-| 无瑕の小天使 | [76561199158658113](https://steamcommunity.com/profiles/76561199158658113) |  | Very&#32;bad |
-| Enterprise | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) | Enterprise |  |
-| 江泽民 | [76561198329707303](https://steamcommunity.com/profiles/76561198329707303) |  | Very&#32;bad,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive |
-| 世界第一 | [76561198303281186](https://steamcommunity.com/profiles/76561198303281186) |  |  |
+|  | [76561199158658113](https://steamcommunity.com/profiles/76561199158658113) |  | Very&#32;bad |
+|  | [76561198180593561](https://steamcommunity.com/profiles/76561198180593561) | Enterprise |  |
+|  | [76561198329707303](https://steamcommunity.com/profiles/76561198329707303) |  | Very&#32;bad,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive |
+|  | [76561198303281186](https://steamcommunity.com/profiles/76561198303281186) |  |  |
 | Sukhoi | [76561199886547985](https://steamcommunity.com/profiles/76561199886547985) |  |  |
 | i_am_none77 | [76561199868607161](https://steamcommunity.com/profiles/76561199868607161) |  | Very&#32;bad |
 | SadrakMc | [76561199259668547](https://steamcommunity.com/profiles/76561199259668547) |  |  |
@@ -222,12 +222,12 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | IonizedAtom | [76561198103844413](https://steamcommunity.com/profiles/76561198103844413) |  |  |
 | Hellpiercer | [76561199221096519](https://steamcommunity.com/profiles/76561199221096519) |  |  |
 | ZY06 | [76561199229848829](https://steamcommunity.com/profiles/76561199229848829) |  |  |
-| minakosenpai | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
-| Teniente Muffin | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
-| Der Kaiser | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
-| rudukwc13 | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
-| 20S | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
-| kimono | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
+|  | [76561198139082588](https://steamcommunity.com/profiles/76561198139082588) |  |  |
+|  | [76561199097646181](https://steamcommunity.com/profiles/76561199097646181) |  |  |
+|  | [76561198881741459](https://steamcommunity.com/profiles/76561198881741459) | Monarch |  |
+|  | [76561199223936931](https://steamcommunity.com/profiles/76561199223936931) |  |  |
+|  | [76561198930833258](https://steamcommunity.com/profiles/76561198930833258) |  |  |
+|  | [76561199373637935](https://steamcommunity.com/profiles/76561199373637935) |  |  |
 | 蜡笔小蟹 | [76561199002216348](https://steamcommunity.com/profiles/76561199002216348) | 蜡笔小蟹 |  |
 | Crazystarwar | [76561198426925179](https://steamcommunity.com/profiles/76561198426925179) |  |  |
 | Max Caulfield | [76561198101323037](https://steamcommunity.com/profiles/76561198101323037) |  |  |
@@ -238,10 +238,10 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | TheSpoodster | [76561198220391076](https://steamcommunity.com/profiles/76561198220391076) |  |  |
 | 养生的鱼噢 | [76561198943227563](https://steamcommunity.com/profiles/76561198943227563) |  |  |
 | Mike Hunt | [76561199489780880](https://steamcommunity.com/profiles/76561199489780880) | Mike&#32;Hunt | Very&#32;bad |
-| CHINESE DRONE | [76561199247196637](https://steamcommunity.com/profiles/76561199247196637) | 奥西亚无人机 |  |
-| master1337 | [76561198107387037](https://steamcommunity.com/profiles/76561198107387037) |  |  |
-| 龙若琳 | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
-| 밍창이 | [76561198145619796](https://steamcommunity.com/profiles/76561198145619796) |  |  |
+|  | [76561199247196637](https://steamcommunity.com/profiles/76561199247196637) | 奥西亚无人机 |  |
+|  | [76561198107387037](https://steamcommunity.com/profiles/76561198107387037) |  |  |
+|  | [76561198955687025](https://steamcommunity.com/profiles/76561198955687025) |  |  |
+|  | [76561198145619796](https://steamcommunity.com/profiles/76561198145619796) |  |  |
 | Violet | [76561199140082027](https://steamcommunity.com/profiles/76561199140082027) |  |  |
 | GADDAR☬GAFFUR | [76561199401367551](https://steamcommunity.com/profiles/76561199401367551) |  |  |
 | Musgus | [76561198859884192](https://steamcommunity.com/profiles/76561198859884192) |  |  |
