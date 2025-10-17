@@ -16,7 +16,7 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | 380586338 | [76561199877371190](https://steamcommunity.com/profiles/76561199877371190) |  |  |
 | Rocovis#F71 | [76561199216308131](https://steamcommunity.com/profiles/76561199216308131) |  |  |
 | Surgitel | [76561199868171149](https://steamcommunity.com/profiles/76561199868171149) |  |  |
-| suzune_jp | [76561199528859685](https://steamcommunity.com/profiles/76561199528859685) |  |  |
+|  | [76561199528859685](https://steamcommunity.com/profiles/76561199528859685) |  |  |
 | 𝓼𝓸𝓵𝓪 | [76561198381089403](https://steamcommunity.com/profiles/76561198381089403) |  |  |
 | 271097752 | [76561198833098058](https://steamcommunity.com/profiles/76561198833098058) |  |  |
 | SALIVAN | [76561199413820695](https://steamcommunity.com/profiles/76561199413820695) |  |  |
@@ -47,7 +47,7 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | 残虹 | [76561199049496733](https://steamcommunity.com/profiles/76561199049496733) |  |  |
 | 雷影战魂,风暴猎手 | [76561198963991931](https://steamcommunity.com/profiles/76561198963991931) | 必勝空戰 |  |
 | TANAKA Makio | [76561199036761417](https://steamcommunity.com/profiles/76561199036761417) |  |  |
-| I Try Then Rage | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
+|  | [76561198097475152](https://steamcommunity.com/profiles/76561198097475152) |  |  |
 | heinrich | [76561198314550983](https://steamcommunity.com/profiles/76561198314550983) |  |  |
 | ♥ MaRcKiToS ♥ | [76561199050810242](https://steamcommunity.com/profiles/76561199050810242) |  |  |
 | Zorin | [76561199378915205](https://steamcommunity.com/profiles/76561199378915205) |  |  |
@@ -125,10 +125,10 @@ Okay, there was a small issue. Until I resolve it, continue using this version
 | VF | [76561198026812263](https://steamcommunity.com/profiles/76561198026812263) |  |  |
 | M. Félix | [76561199245898520](https://steamcommunity.com/profiles/76561199245898520) |  |  |
 | RangerNL12 | [76561199186195644](https://steamcommunity.com/profiles/76561199186195644) |  |  |
-| Dr.Kepler | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
-| powergerchus | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
-| Gon | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
-| Camus | [76561199055046757](https://steamcommunity.com/profiles/76561199055046757) |  |  |
+|  | [76561198390875668](https://steamcommunity.com/profiles/76561198390875668) |  |  |
+|  | [76561198368425918](https://steamcommunity.com/profiles/76561198368425918) |  |  |
+|  | [76561198090570349](https://steamcommunity.com/profiles/76561198090570349) | noahbenji |  |
+|  | [76561199055046757](https://steamcommunity.com/profiles/76561199055046757) |  |  |
 | f1shift | [76561198883657609](https://steamcommunity.com/profiles/76561198883657609) |  |  |
 | Grana[ITA] | [76561198085046695](https://steamcommunity.com/profiles/76561198085046695) |  |  |
 | 525240020 | [76561198400155224](https://steamcommunity.com/profiles/76561198400155224) |  |  |
